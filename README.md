@@ -1,6 +1,6 @@
-#Adaptive Windows Website
+#Localise
 
-This is a one-page website that has an adaptation for a mobile device, a burger menu, a gallery of photos and information about the company.
+A simple one-page landing page without adaptive layout, with click-throughs.
 
 ---
 
